@@ -1,0 +1,17 @@
+body {
+    background-image: url(Screenshot\ guac.png);
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+ul {
+    text-align: left;
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: rgb(34, 142, 1);
+    text-align: left;
+}
