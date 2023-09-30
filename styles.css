@@ -1,17 +1,19 @@
 body {
-    background-image: url(Screenshot\ guac.png);
-    background-color: aquamarine;
-    background-repeat: no-repeat;
-    background-position: right;
-}
-
-ul {
-    text-align: left;
-    color: darkblue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(112, 192, 233)
 }
 
 h1 {
-    color: rgb(34, 142, 1);
-    text-align: left;
+    font-family: cursive;
+}
+
+.button {
+    background-color: none;
+    border: black;
+    color: black;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 10px;
 }
